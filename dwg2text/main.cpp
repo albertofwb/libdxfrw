@@ -17,6 +17,8 @@
 #include "dx_iface.h"
 #include "dx_data.h"
 
+
+
 void usage(){
     std::cout << "Usage: " << std::endl;
     std::cout << "   dwg2text <input>" << std::endl << std::endl;
